@@ -87,3 +87,6 @@ googleMap.setOnMarkerClickListener { marker ->
 - A documentação oficial da Google Maps API para Android é uma ótima fonte de informações, e pode ajudar a esclarecer eventuais dúvidas que você possa ter: https://developers.google.com/maps/documentation/android-sdk/overview
 
 - Este código é apenas um exemplo básico de como adicionar marcadores e um card com informações adicionais no Google Maps em Kotlin. Para um aplicativo completo, é necessário implementar outros recursos, como a solicitação de permissão de localização do usuário, o tratamento de exceções e erros, etc.
+
+
+https://www.youtube.com/watch?v=suwq7Nta3oM
